@@ -1,0 +1,14 @@
+{
+  "name": "basic-website-with-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.14.12",
+    "pug": "^2.0.0-rc.4"
+  }
+}
